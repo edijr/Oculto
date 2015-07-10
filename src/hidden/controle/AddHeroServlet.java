@@ -16,7 +16,6 @@ import javax.servlet.http.HttpServletResponse;
  * Servlet implementation class AddHeroServlet
  */
 
-//commit de teste
 public class AddHeroServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
